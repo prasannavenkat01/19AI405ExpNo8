@@ -109,8 +109,13 @@ else:
 <h2>Sample Input and Output:</h2>
 SEND = 9567<br>
 MORE = 1085<br>
-<hr>
+------------
 MONEY = 10652<br>
-<hr>
+------------
+
+INPUT AND OUTPUT:
+
+![image](https://github.com/prasannavenkat01/19AI405ExpNo8/assets/150702500/11f56ac6-c594-4986-b0ef-5106c97363d9)
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
